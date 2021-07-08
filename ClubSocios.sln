@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\ClassLibrary1\Datos.csproj", "{85BA654D-DB7F-4AD1-9E18-80258FE45B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{DF9C4C67-EC67-4548-969B-ED10132C0BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interfaz.csproj", "{D2BC2080-8796-40CB-BCED-81762EA59B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85BA654D-DB7F-4AD1-9E18-80258FE45B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85BA654D-DB7F-4AD1-9E18-80258FE45B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85BA654D-DB7F-4AD1-9E18-80258FE45B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85BA654D-DB7F-4AD1-9E18-80258FE45B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9C4C67-EC67-4548-969B-ED10132C0BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9C4C67-EC67-4548-969B-ED10132C0BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9C4C67-EC67-4548-969B-ED10132C0BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9C4C67-EC67-4548-969B-ED10132C0BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2BC2080-8796-40CB-BCED-81762EA59B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2BC2080-8796-40CB-BCED-81762EA59B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2BC2080-8796-40CB-BCED-81762EA59B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2BC2080-8796-40CB-BCED-81762EA59B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
