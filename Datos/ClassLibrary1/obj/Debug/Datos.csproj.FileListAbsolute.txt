@@ -1,0 +1,27 @@
+C:\Users\Profesor\Desktop\Documentos\Programacion II\Controls\Datos\ClassLibrary1\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\OneDrive\Programacion II\2018\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\OneDrive\Programacion II\2018\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll.config
+C:\Users\Profesor\OneDrive\Programacion II\2018\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll
+C:\Users\Profesor\OneDrive\Programacion II\2018\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.pdb
+C:\Users\Profesor\OneDrive\Programacion II\2018\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.dll
+C:\Users\Profesor\OneDrive\Programacion II\2018\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.pdb
+C:\Users\NaJoTe\Desktop\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll.config
+C:\Users\NaJoTe\Desktop\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll
+C:\Users\NaJoTe\Desktop\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.pdb
+C:\Users\NaJoTe\Desktop\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\NaJoTe\Desktop\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.dll
+C:\Users\NaJoTe\Desktop\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.pdb
+E:\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll.config
+E:\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll
+E:\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.pdb
+E:\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.csprojAssemblyReference.cache
+E:\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.dll
+E:\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.pdb
+C:\Users\nata_\Desktop\Proyectos CV\2018\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll.config
+C:\Users\nata_\Desktop\Proyectos CV\2018\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.dll
+C:\Users\nata_\Desktop\Proyectos CV\2018\ClubSocios\ClubSocios\Datos\ClassLibrary1\bin\Debug\Datos.pdb
+C:\Users\nata_\Desktop\Proyectos CV\2018\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\nata_\Desktop\Proyectos CV\2018\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\nata_\Desktop\Proyectos CV\2018\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.dll
+C:\Users\nata_\Desktop\Proyectos CV\2018\ClubSocios\ClubSocios\Datos\ClassLibrary1\obj\Debug\Datos.pdb
